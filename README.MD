@@ -17,4 +17,3 @@
 **Contact Details**
    - Skype: https://join.skype.com/invite/oigG2GQyCpRP
    - LinkedIn: https://www.linkedin.com/in/tssovi/
-   - Email: tssovi@gmail.com
