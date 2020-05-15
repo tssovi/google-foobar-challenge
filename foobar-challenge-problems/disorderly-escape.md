@@ -6,7 +6,7 @@ Problem is, to avoid detection by galactic law enforcement, Commander Lambda pla
 There's something important to note about quasar quantum flux fields' configurations: when drawn on a star grid, configurations are considered equivalent by grouping rather than by order. That is, for a given set of configurations, if you exchange the position of any two columns or any two rows some number of times, youll find that all of those configurations are equivalent in that way - in grouping, rather than order.
 
 
-Write a function answer(w, h, s) that takes 3 integers and returns the number of unique, non-equivalent configurations that can be found on a star grid w blocks wide and h blocks tall where each celestial body has s possible states. 
+Write a function solution(w, h, s) that takes 3 integers and returns the number of unique, non-equivalent configurations that can be found on a star grid w blocks wide and h blocks tall where each celestial body has s possible states. 
 
 Equivalency is defined as above: any two star grids with each celestial body in the same state where the actual order of the rows and columns do not matter (and can thus be freely swapped around). 
 
@@ -55,7 +55,7 @@ In the above configuration, all celestial bodies are "silent" - that is, they ha
 
 4 noisy celestial bodies.
 
-There are 7 distinct, non-equivalent grids in total, so answer(2, 2, 2) would return 7.
+There are 7 distinct, non-equivalent grids in total, so solution(2, 2, 2) would return 7.
 
 <h2 align= "center"><b>Test Cases</b></h2>
 

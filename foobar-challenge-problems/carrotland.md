@@ -6,7 +6,7 @@ You have a dream, a dream of carrots, lots of carrots, planted in neat rows and 
 
 Of course, you want to plant as many carrots as you can. But you also want to follow these guidelines: The carrots may only be planted at points with integer coordinates on the 2-D plane. They must lie within the plot of land and not on the boundaries. For example, if the vertices were (-1,-1), (1,0) and (0,1), then you can plant only one carrot at (0,0).
 
-Write a function answer(vertices), which, when given a list of three vertices, returns the maximum number of carrots you can plant.
+Write a function solution(vertices), which, when given a list of three vertices, returns the maximum number of carrots you can plant.
 
 The vertices list will contain exactly three elements, and each element will be a list of two integers representing the x and y coordinates of a vertex. All coordinates will have absolute value no greater than 1000000000. The three vertices will not be collinear.
 

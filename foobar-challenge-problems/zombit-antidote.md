@@ -4,7 +4,7 @@ Forget flu season. Zombie rabbits have broken loose and are terrorizing Silicon 
 
 Can you optimize your meeting schedule? The world needs your help!
 
-Write a method called answer(meetings) which, given a list of meeting requests, returns the maximum number of non-overlapping meetings that can be scheduled. If the start time of one meeting is the same as the end time of another, they are not considered overlapping.
+Write a method called solution(meetings) which, given a list of meeting requests, returns the maximum number of non-overlapping meetings that can be scheduled. If the start time of one meeting is the same as the end time of another, they are not considered overlapping.
 
 meetings will be a list of lists. Each element of the meetings list will be a two element list denoting a meeting request. The first element of that list will be the start time and the second element will be the end time of that meeting request.
 

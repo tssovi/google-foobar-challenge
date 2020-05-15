@@ -14,7 +14,7 @@ For example, with 3 warrens (denoted A, B, C) and 2 tunnels, there are three dis
 
 With 4 warrens and 6 tunnels, the only way to connect them is to connect each warren to every other warren.
 
-Write a function answer(N, K) which returns the number of ways to connect N distinctly labelled warrens with exactly K tunnels, so that there is a path between any two warrens.
+Write a function solution(N, K) which returns the number of ways to connect N distinctly labelled warrens with exactly K tunnels, so that there is a path between any two warrens.
 
 The return value must be a string representation of the total number of ways to do so, in base 10.
 N will be at least 2 and at most 20.

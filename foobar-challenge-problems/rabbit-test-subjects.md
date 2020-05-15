@@ -8,7 +8,7 @@ Of the subjects that have survived, each has a distinct file, with anywhere from
 
 For example, if the first list of times is [22.2, 46, 100.8] and the second list is [23, 11.1, 50.4] you would return 50, because the times got 50% shorter: the 22.2 entry improved to 11.1, the 46 improved to 23, and the 100.8 improved to 50.4. Even though the data points are in different order, each improves by the same amount.
 
-Write a function answer(x, y) which takes two lists of floating point performance scores and returns the improvement percentage, rounded to the nearest integer.
+Write a function solution(x, y) which takes two lists of floating point performance scores and returns the improvement percentage, rounded to the nearest integer.
 
 <h2 align= "center"><b>Test Cases</b></h2>
 

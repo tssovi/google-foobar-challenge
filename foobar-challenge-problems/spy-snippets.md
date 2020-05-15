@@ -4,7 +4,7 @@ You've been recruited by the team building Spy4Rabbits, a highly advanced search
 
 When someone makes a search, Spy4Rabbits shows the title of the page. Your commander would also like it to show a short snippet of the page containing the terms that were searched for.
 
-Write a function called answer(document, searchTerms) which returns the shortest snippet of the document, containing all of the given search terms. The search terms can appear in any order.
+Write a function called solution(document, searchTerms) which returns the shortest snippet of the document, containing all of the given search terms. The search terms can appear in any order.
 
 The length of a snippet is the number of words in the snippet. For example, the length of the snippet "tastiest color of carrot" is 4. (Who doesn't like a delicious snack!)
 

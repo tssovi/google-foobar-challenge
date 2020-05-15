@@ -8,7 +8,7 @@ Your job is to compare a list of the access codes and find the number of distinc
 
 For example, the access code "abc" is identical to "cba" as well as "abc." The code "cba" is identical to "abc" as well as "cba." The list ["abc," "cba," "bac"] has 2 distinct access codes in it.
 
-Write a function answer(x) which takes a list of access code strings, x, and returns the number of distinct access code strings using this definition of identical.
+Write a function solution(x) which takes a list of access code strings, x, and returns the number of distinct access code strings using this definition of identical.
 
 <h2 align= "center"><b>Test Cases</b></h2>
 

@@ -13,7 +13,7 @@ For example, you have captured two minions: minion A taking 10 minutes, and givi
 If you interrogate A first, then you expect to take 12.5 minutes.
 If you interrogate B first, then you expect to take 13 minutes and thus must interrogate A first for the shortest expected time for getting the answer.
 
-Write a function answer(minions) which given a list of the characteristics of each minion, returns the lexicographically smallest ordering of minions, which gives you the smallest expected time of confirming the password.
+Write a function solution(minions) which given a list of the characteristics of each minion, returns the lexicographically smallest ordering of minions, which gives you the smallest expected time of confirming the password.
 
 The minions are numbered starting from 0.
 
