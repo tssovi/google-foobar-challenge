@@ -27,14 +27,14 @@
 
 ---------------------------------------------------------------
 
-## Level 3 Code Submission Related Questionnaire
+### Level 3 Code Submission Related Questionnaire
 Upon completion of the third level, Foo Bar asked if I wanted to send information to a Google recruiter. Here are the questions:
 
-### [#1] The code is strong with this one. Share solutions with a Google recruiter?
+#### [#1] The code is strong with this one. Share solutions with a Google recruiter?
 
 - [Y]es [N]o [A]sk me later: Y
 
-### Please provide the following information. By providing the information you agree to the Terms & Conditions.
+#### Please provide the following information. By providing the information you agree to the Terms & Conditions.
 
 - [#2] First name:
 - [#3] Last name:
@@ -43,14 +43,14 @@ Upon completion of the third level, Foo Bar asked if I wanted to send informatio
 - [#6] Phone number:
 - [#7] Other helpful links (optional):
 
-### Are the above details correct?
+#### Are the above details correct?
 
 - [Y]es or [N]o: Y  
 
-### Submitting your response...
-### Response saved.
+#### Submitting your response...
+#### Response saved.
 
-### [#1] Enter current status to be routed to optimal recruiter:
+#### [#1] Enter current status to be routed to optimal recruiter:
 
 1. Currently in high school
 2. Currently pursuing a degree
@@ -59,12 +59,12 @@ Upon completion of the third level, Foo Bar asked if I wanted to send informatio
 5. Other
 - Enter 1-5:
 
-### Are the above details correct?
+#### Are the above details correct?
 
 - [Y]es or [N]o: Y
 
-### Submitting your response...
-###  Your progress will be reviewed.
-### But the challenge is not over yet.
+#### Submitting your response...
+####  Your progress will be reviewed.
+#### But the challenge is not over yet.
 
 ---------------------------------------------------------------
