@@ -11,6 +11,12 @@
 >There were 5 levels and 9 problems in this challenge.\
 >Level 1 has 1 problem, level 2 has 2 problems, level 3 has 3 problems, level 4 has 2 problems and level 5 has 1 problem.
 
+-------
+
+<h1 align= "center"><b>Total Number of Problems Included: 61</b></h1>
+
+-------
+
 **Notes**
    - Took part in _Foobar Challenge_ March, 2019.
    - You should submit your code for review in _Level 3_, So be careful in _Level 3_.
