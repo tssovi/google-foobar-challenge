@@ -21,6 +21,8 @@
    - Provide only _Pythonic_ style _Input_ & _Output_ formats.
    - _Google Foobar_ accepts only _Java_ or _Python_
 
+### I have 2 unused ref link for Foobar Challenge. If anyone with good competitive programming experience interested in Foobar Challenge give me knock. Inn shaa I will share my ref link.
+
 **Contact Details**
    - Skype: https://join.skype.com/invite/oigG2GQyCpRP
    - LinkedIn: https://www.linkedin.com/in/tssovi/
