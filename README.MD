@@ -14,7 +14,7 @@
 **Notes**
    - Took part in _Foobar Challenge_ March, 2019.
    - You should submit your code for review in _Level 3_, So be careful in _Level 3_.
-   - It took some time get feedback after completing _Foobar Challenge_, So please keep patiance.
+   - It took some time get feedback after completing _Foobar Challenge_, So please keep patience.
    - Collect and include problems from different _Foobar Challenge_ sources to enrich this repository.
    - If you want contribute then please fork and make a _Pull Request_.
    - Please follow the existing doc style for _Pull Request_.
