@@ -13,6 +13,7 @@
    - If you want contribute then please fork and make a _Pull Request_.
    - Please follow the existing doc style for _Pull Request_.
    - Provide only _Pythonic_ style _Input_ & _Output_ formats.
+   - _Google FooBar_ accepts only _Java_ or _Python_
 
 **Contact Details**
    - Skype: https://join.skype.com/invite/oigG2GQyCpRP
